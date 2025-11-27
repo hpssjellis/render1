@@ -1,6 +1,6 @@
 <?php
 // Initialize variables for the result message and the input text.
-$checkResult = "<span style='color:red'> Try the magic word</span>";
+$checkResult = "<span style='color:red'> Try the magic word 'fred'</span>";
 $myInputText01 = '';
 
 // Check if the form was submitted (i.e., if the request method is POST)
